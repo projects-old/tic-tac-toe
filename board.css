@@ -15,6 +15,7 @@ table {
 }
 
 td:hover {
+  background-color: lightblue;
   cursor: pointer;
 }
 
