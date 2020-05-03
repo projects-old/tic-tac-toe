@@ -13,4 +13,4 @@ Technologies Used:
 - JavaScript
 - Bootstrap 4.4.1
 
-Github Page: [Tic-Tac-Toe](https://projects-training.github.io/tic-tac-toe/)
+Github Page: [Tic-Tac-Toe](https://projects-old.github.io/tic-tac-toe/)
